@@ -1,0 +1,7 @@
+name = "school-sport-portal"
+main = "index.js"
+compatibility_date = "2024-04-01"
+
+[[d1_databases]]
+binding = "DB"
+database_id = "2d9b209f-7d46-44a8-b41d-01f06ecf3676"
